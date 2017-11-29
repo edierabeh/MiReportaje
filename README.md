@@ -19,4 +19,4 @@ Tableau -
 Google Trends
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/g/1q6mq6sx9","geo":"","time":"today 12-m"},{"keyword":"/m/038cf","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fg%2F1q6mq6sx9,%2Fm%2F038cf&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
 Google MAps
-<iframe src="https://www.google.com/maps/d/embed?mid=1SIc3SoWrRmjZQ0fUzl5EiKlSfAmBowF0" width=100% height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1SIc3SoWrRmjZQ0fUzl5EiKlSfAmBowF0" width="100%" height="480"></iframe>
